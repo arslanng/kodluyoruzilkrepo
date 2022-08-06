@@ -31,3 +31,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Görseller
+Proje içinden:
+
+![resim1](https://i.im.ge/2022/08/06/F8gduf.resim1.jpg)
+
+github
+![EkranAlıntısı2](https://i.im.ge/2022/08/06/F8gI3T.EkranAlintisi2.jpg)
